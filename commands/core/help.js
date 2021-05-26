@@ -1,6 +1,6 @@
 module.exports = {
     name: 'help',
-    aliases: ['h'],
+    aliases: [''],
     category: 'Core',
     utilisation: '{prefix}help <command name>',
 
